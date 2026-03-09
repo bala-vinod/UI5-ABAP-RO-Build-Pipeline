@@ -2,7 +2,7 @@ sap.ui.define([
     "sap/ui/core/mvc/Controller"
 ],
     /**
-     * @param {typeof sap.ui.core.mvc.Controller} Controlleruuuuu
+     * @param {typeof sap.ui.core.mvc.Controller} Controlleruuuuugg
      */
     function (Controller) {
         "use strict";
